@@ -2,8 +2,8 @@
 This project demonstrates the configuration of a Continuous Integration and Continuous Deployment (CI/CD) pipeline using AWS CodeBuild and Terraform.
 
 ## Project Structure
-´main.tf´: Contains the main Terraform configuration.
-´variables.tf´: Defines the input variables for Terraform.
+' main.tf' : Contains the main Terraform configuration.
+´variables.tf´ : Defines the input variables for Terraform.
 ´outputs.tf´: Specifies the outputs of the Terraform configuration.
 ´buildspec.yml´: Defines the build commands and settings for AWS CodeBuild.
 ´README.md´: Project documentation.

@@ -3,9 +3,13 @@ This project demonstrates the configuration of a Continuous Integration and Cont
 
 ## Project Structure
  `main.tf`: Contains the main Terraform configuration.
+ 
  `variables.tf` : Defines the input variables for Terraform.
+ 
 `outputs.tf`: Specifies the outputs of the Terraform configuration.
+
 `buildspec.yml`: Defines the build commands and settings for AWS CodeBuild.
+
 `README.md`: Project documentation.
 ## Prerequisites
  - AWS account with appropriate permissions.

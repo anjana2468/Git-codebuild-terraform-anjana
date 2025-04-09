@@ -29,13 +29,13 @@ cd Terraform-AWS-CodeBuild-CICD-Pipeline
 3. Review and Apply the Terraform Configuration:
 
    * Plan the Deployment:
-```
+        ```
       terraform plan
-```
+        ```
    * Apply the Configuration:
-```
-terraform apply
-``` 
+        ```
+        terraform apply
+        ``` 
 Note: Review the plan output carefully before applying.
 
 4. Configure AWS CodeBuild:

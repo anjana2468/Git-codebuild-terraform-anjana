@@ -41,13 +41,16 @@ Note: Review the plan output carefully before applying.
 4. Configure AWS CodeBuild:
 
 Ensure that the buildspec.yml file is correctly set up to define the build commands and settings for your project.
+
 5. Trigger the Build:
 
 Initiate a build in AWS CodeBuild to start the CI/CD pipeline.
+
 ## Application Usage
 Monitoring Builds:
 
 Navigate to the AWS CodeBuild console to monitor the status of your builds.
+
 Managing Infrastructure:
 
 Use Terraform commands to manage and update your infrastructure as cod

@@ -23,9 +23,9 @@ git clone https://github.com/anjana2468/Git-codebuild-terraform-anjana.git
 cd Terraform-AWS-CodeBuild-CICD-Pipeline
 ```
 2. Initialize Terraform:
-```
-terraform init
-```
+ ```
+  terraform init
+ ```
 3. Review and Apply the Terraform Configuration:
 
  * Plan the Deployment:
@@ -40,11 +40,11 @@ Note: Review the plan output carefully before applying.
 
 4. Configure AWS CodeBuild:
 
-- Ensure that the buildspec.yml file is correctly set up to define the build commands and settings for your project.
+  - Ensure that the buildspec.yml file is correctly set up to define the build commands and settings for your project.
 
 5. Trigger the Build:
 
-- Initiate a build in AWS CodeBuild to start the CI/CD pipeline.
+  - Initiate a build in AWS CodeBuild to start the CI/CD pipeline.
 
 ## Application Usage
 - Monitoring Builds:

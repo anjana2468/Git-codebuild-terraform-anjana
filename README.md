@@ -19,7 +19,7 @@ This project demonstrates the configuration of a Continuous Integration and Cont
 ## Setup Instructions
 1. Clone the Repository:
 ```
-git clone https://github.com/KevDen01/Terraform-AWS-CodeBuild-CICD-Pipeline.git
+git clone https://github.com/anjana2468/Git-codebuild-terraform-anjana.git
 cd Terraform-AWS-CodeBuild-CICD-Pipeline
 ```
 2. Initialize Terraform:

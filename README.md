@@ -20,7 +20,7 @@ This project demonstrates the configuration of a Continuous Integration and Cont
 1. Clone the Repository:
 ```
 git clone https://github.com/anjana2468/Git-codebuild-terraform-anjana.git
-cd Terraform-AWS-CodeBuild-CICD-Pipeline
+cd Git-codebuild-terraform-anjana
 ```
 2. Initialize Terraform:
  ```
